@@ -1,0 +1,198 @@
+{
+  "assets": [
+    {
+      "path": "images/originals/Fachada-Aymen-Original.png",
+      "origin": "user_attachment",
+      "uploaded_name": "Screenshot 2026-10-28 at 23.30.12.png",
+      "role": "documentary_facade",
+      "source_sha256": "5bfd2e3966bf35c958f41858bd4d394e672e01437d5a5fda0b2ffb7420bbcf01",
+      "sha256": "5bfd2e3966bf35c958f41858bd4d394e672e01437d5a5fda0b2ffb7420bbcf01",
+      "untouched_copy": true
+    },
+    {
+      "path": "references/Referencia-Tipografia.png",
+      "origin": "user_attachment",
+      "uploaded_name": "concept1(2).png",
+      "role": "style_reference",
+      "source_sha256": "535d81e264c357790903fc467acadb1fe2d41ed62c1675ffc3c8e7405c1590bc",
+      "sha256": "535d81e264c357790903fc467acadb1fe2d41ed62c1675ffc3c8e7405c1590bc",
+      "untouched_copy": true
+    },
+    {
+      "path": "references/Referencia-Mural-Ilustrativo.png",
+      "origin": "user_attachment",
+      "uploaded_name": "BACKGROUNDSECTION.png",
+      "role": "illustrative_mural_reference",
+      "source_sha256": "f101925b1b827a44ddcf3c55567f4469c2a627f03d53ddb6ea92a32a500df9cb",
+      "sha256": "f101925b1b827a44ddcf3c55567f4469c2a627f03d53ddb6ea92a32a500df9cb",
+      "untouched_copy": true
+    },
+    {
+      "path": "references/Referencia-Montagem.png",
+      "origin": "user_attachment",
+      "uploaded_name": "backgroundsectionidea(1).png",
+      "role": "montage_reference_not_company_portfolio",
+      "source_sha256": "d2ba2c97c8a60d92e5fa7d57097407fdec8f673b74546dce2bd2eb2e33b94ba4",
+      "sha256": "d2ba2c97c8a60d92e5fa7d57097407fdec8f673b74546dce2bd2eb2e33b94ba4",
+      "untouched_copy": true
+    },
+    {
+      "path": "images/master/contact-campaign.png",
+      "origin": "image_gen",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1604,
+        980
+      ],
+      "mode": "RGB",
+      "sha256": "66314db45141e59c405212ecc2d24415d823832be5ce57751cfb7754eddc0e32"
+    },
+    {
+      "path": "images/master/craft-montage.png",
+      "origin": "image_gen",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1605,
+        980
+      ],
+      "mode": "RGB",
+      "sha256": "7db3afe35e358764b23180e42658bbf016161e042846c904b6d02b1e5d86babd"
+    },
+    {
+      "path": "images/master/hero-chair.png",
+      "origin": "image_gen",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1060,
+        1484
+      ],
+      "mode": "RGBA",
+      "sha256": "d1fe55b2e6b10bf5099bc34a26d8c57f22aecb3c4666cedc48923d3e676d0e1e"
+    },
+    {
+      "path": "images/master/hero-plate.png",
+      "origin": "image_gen",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1604,
+        980
+      ],
+      "mode": "RGB",
+      "sha256": "7d7d3537838906907bd8e61f675fc9891572f8caf3b34987b50aa72306c8b344"
+    },
+    {
+      "path": "images/master/signature-master.png",
+      "origin": "image_gen",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1881,
+        836
+      ],
+      "mode": "RGBA",
+      "sha256": "5e75e71b330e9c0a5d3e8291ee3aeba63d6134f65f1f6123d7153324462a3fac"
+    },
+    {
+      "path": "site/assets/contact-campaign.webp",
+      "origin": "format_derivative",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1604,
+        980
+      ],
+      "mode": "RGB",
+      "quality": 94,
+      "sha256": "22ae5fdd781a67f00ba83a33001779a4c7d939c15adabd2f40ae3e150d92f5e6"
+    },
+    {
+      "path": "site/assets/craft-montage.webp",
+      "origin": "format_derivative",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1605,
+        980
+      ],
+      "mode": "RGB",
+      "quality": 94,
+      "sha256": "186d47cbbef175a83ea299a1b5cd95cca51e8b66a13016d4afa5bbba2ad5a15d"
+    },
+    {
+      "path": "site/assets/facade.webp",
+      "origin": "format_derivative",
+      "role": "documentary_facade",
+      "dimensions": [
+        1342,
+        1000
+      ],
+      "mode": "RGB",
+      "quality": 95,
+      "sha256": "03270606a2d1cb101eede80ad5de8aa426947fdde9013ee1e741b7fae033b59a"
+    },
+    {
+      "path": "site/assets/hero-chair.webp",
+      "origin": "format_derivative",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1060,
+        1484
+      ],
+      "mode": "RGBA",
+      "quality": 94,
+      "sha256": "64901c97e54bc89dde9e9b211ca42671bc4fee05bae9e57bfcabf00b150f473c"
+    },
+    {
+      "path": "site/assets/hero-plate.webp",
+      "origin": "format_derivative",
+      "role": "campaign_not_documentary",
+      "dimensions": [
+        1604,
+        980
+      ],
+      "mode": "RGB",
+      "quality": 94,
+      "sha256": "7044b562ff012c4bcf13a2e39ee3cd607c21e7b529e14cf7cd643b11fd3964b9"
+    },
+    {
+      "path": "brand/Avatar-Social.png",
+      "origin": "brand_art",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "sha256": "9a023be5fa7e90f58dcd46ca15b0352e3415f8413e09d136e2d611196eb813a3"
+    },
+    {
+      "path": "brand/Logo-AYMEN-Ambre-Transparente.png",
+      "origin": "brand_art",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sha256": "98ca903e83a1b0d34b7e59c30c888b1113337cac0e6e8fcc20a53c5cc7c9d91c"
+    },
+    {
+      "path": "brand/Logo-AYMEN-Ivoire-Transparente.png",
+      "origin": "brand_art",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "sha256": "d8bb23a777a1487481750729af9a5e0179799547601ef584fe9e49de8dfb593f"
+    },
+    {
+      "path": "brand/Signature-Aymen-Transparente.png",
+      "origin": "brand_art",
+      "dimensions": [
+        1881,
+        836
+      ],
+      "mode": "RGBA",
+      "sha256": "2705bac571671779f72a6db7600bcf0829eac7a255e0234bd3b5721897acfb6f"
+    }
+  ],
+  "facade_viewBox": "0 110 1342 780",
+  "header_logo_viewBox": "80 225 1620 475",
+  "method": "Foto documental enquadrada por viewBox; arquivos originais preservados. Campanhas identificadas por origem."
+}

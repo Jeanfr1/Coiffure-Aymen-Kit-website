@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+.DS_Store
+scripts/out/
+scripts/__pycache__/
+qa/
+*.log
+# third-party material: other brands' studies and a Google Maps capture with a reviewer's name
+references/Referencia-*.png
+images/originals/Fachada-Aymen-Original.png
+site/assets/facade.webp

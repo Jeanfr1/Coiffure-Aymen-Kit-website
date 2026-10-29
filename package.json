@@ -1,0 +1,23 @@
+{
+  "name": "coiffure-aymen-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Coiffure Aymen — coiffure & barbier, Pontchâteau. One-page site, model 3 « Le Fauteuil Signature ».",
+  "scripts": {
+    "dev": "vite --port 4376",
+    "build": "vite build",
+    "preview": "vite preview --port 4377 --strictPort",
+    "register": "~/anaconda3/bin/python3 scripts/register-board.py",
+    "prepare-images": "~/anaconda3/bin/python3 scripts/prepare-images.py",
+    "images": "node scripts/build-images.mjs",
+    "fit-type": "python3 scripts/fit-type.py",
+    "qa": "node scripts/qa.mjs",
+    "compare": "node scripts/compare-board.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.48.2",
+    "sharp": "0.33.5",
+    "vite": "6.4.5"
+  }
+}

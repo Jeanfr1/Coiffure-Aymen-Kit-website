@@ -1,0 +1,380 @@
+{
+  "nav1": {
+    "text": "Le savoir-faire",
+    "font": "sora400",
+    "ink": [
+      237,
+      22,
+      311,
+      31
+    ],
+    "size": 10.44,
+    "tracking": 0.0,
+    "baseline": 30.0,
+    "left": 236.0
+  },
+  "nav2": {
+    "text": "Les services",
+    "font": "sora400",
+    "ink": [
+      343,
+      23,
+      406,
+      31
+    ],
+    "size": 10.59,
+    "tracking": 0.0,
+    "baseline": 31.0,
+    "left": 342.0
+  },
+  "nav3": {
+    "text": "Nous trouver",
+    "font": "sora400",
+    "ink": [
+      437,
+      16,
+      510,
+      31
+    ],
+    "size": 20.07,
+    "tracking": -0.2609,
+    "baseline": 31.0,
+    "left": 435.0
+  },
+  "nav-cta": {
+    "text": "Venir au salon",
+    "font": "sora400",
+    "ink": [
+      619,
+      28,
+      686,
+      36
+    ],
+    "size": 9.66,
+    "tracking": 0.0,
+    "baseline": 35.0,
+    "left": 619.0
+  },
+  "h1a": {
+    "text": "PRENEZ",
+    "font": "barlow800",
+    "ink": [
+      42,
+      378,
+      236,
+      428
+    ],
+    "size": 71.43,
+    "tracking": -0.0018,
+    "baseline": 429.0,
+    "left": 40.0
+  },
+  "h1b": {
+    "text": "PLACE.",
+    "font": "barlow800",
+    "ink": [
+      42,
+      437,
+      224,
+      491
+    ],
+    "size": 75.52,
+    "tracking": -0.0185,
+    "baseline": 491.0,
+    "left": 40.0
+  },
+  "hero-eyebrow": {
+    "text": "COIFFURE HOMME · ENFANT · BARBE",
+    "font": "sora500",
+    "ink": [
+      41,
+      505,
+      281,
+      514
+    ],
+    "size": 11.73,
+    "tracking": 0.0639,
+    "baseline": 514.0,
+    "left": 40.0
+  },
+  "hero-cta": {
+    "text": "Sans rendez-vous",
+    "font": "sora400",
+    "ink": [
+      63,
+      550,
+      162,
+      560
+    ],
+    "size": 11.1,
+    "tracking": 0.0,
+    "baseline": 558.0,
+    "left": 62.0
+  },
+  "sf1": {
+    "text": "LA MAIN.",
+    "font": "barlow800",
+    "ink": [
+      36,
+      647,
+      369,
+      719
+    ],
+    "size": 102.13,
+    "tracking": 0.0176,
+    "baseline": 719.0,
+    "left": 32.0
+  },
+  "sf-eyebrow": {
+    "text": "HOMME · ENFANT · BARBE",
+    "font": "sora500",
+    "ink": [
+      535,
+      995,
+      706,
+      1004
+    ],
+    "size": 11.73,
+    "tracking": 0.0712,
+    "baseline": 1004.0,
+    "left": 534.0
+  },
+  "fa1": {
+    "text": "AYMEN,",
+    "font": "barlow800",
+    "ink": [
+      44,
+      1280,
+      227,
+      1320
+    ],
+    "size": 57.14,
+    "tracking": 0.101,
+    "baseline": 1320.0,
+    "left": 43.0
+  },
+  "fa2": {
+    "text": "PONTCHATEAU.",
+    "font": "barlow800",
+    "ink": [
+      66,
+      1339,
+      401,
+      1379
+    ],
+    "size": 55.94,
+    "tracking": 0.0437,
+    "baseline": 1378.0,
+    "left": 64.0
+  },
+  "fa2-a": {
+    "text": "A",
+    "font": "barlow800",
+    "ink": [
+      42,
+      1339,
+      64,
+      1378
+    ],
+    "size": 55.71,
+    "tracking": -0.0851,
+    "baseline": 1378.0,
+    "left": 41.0
+  },
+  "fa-addr": {
+    "text": "2 rue Maurice Sambron",
+    "font": "sora400",
+    "ink": [
+      73,
+      1396,
+      219,
+      1406
+    ],
+    "size": 12.69,
+    "tracking": 0.0,
+    "baseline": 1406.0,
+    "left": 72.0
+  },
+  "fa-cta": {
+    "text": "Voir l’itinéraire",
+    "font": "sora400",
+    "ink": [
+      578,
+      1381,
+      660,
+      1391
+    ],
+    "size": 11.08,
+    "tracking": 0.0,
+    "baseline": 1390.0,
+    "left": 578.0
+  },
+  "sv1": {
+    "text": "VOTRE ALLURE.",
+    "font": "barlow800",
+    "ink": [
+      259,
+      1474,
+      597,
+      1517
+    ],
+    "size": 60.14,
+    "tracking": 0.005,
+    "baseline": 1517.0,
+    "left": 258.0
+  },
+  "sv2": {
+    "text": "NOTRE ATTENTION.",
+    "font": "barlow800",
+    "ink": [
+      260,
+      1526,
+      666,
+      1569
+    ],
+    "size": 60.14,
+    "tracking": -0.0126,
+    "baseline": 1569.0,
+    "left": 258.0
+  },
+  "sv-i1": {
+    "text": "COUPE HOMME",
+    "font": "sora500",
+    "ink": [
+      260,
+      1612,
+      361,
+      1621
+    ],
+    "size": 11.73,
+    "tracking": 0.0666,
+    "baseline": 1621.0,
+    "left": 259.0
+  },
+  "sv-i2": {
+    "text": "COUPE ENFANT",
+    "font": "sora500",
+    "ink": [
+      413,
+      1612,
+      516,
+      1621
+    ],
+    "size": 11.73,
+    "tracking": 0.064,
+    "baseline": 1621.0,
+    "left": 412.0
+  },
+  "sv-i3": {
+    "text": "BARBE & CONTOURS",
+    "font": "sora500",
+    "ink": [
+      568,
+      1612,
+      706,
+      1621
+    ],
+    "size": 11.69,
+    "tracking": 0.0799,
+    "baseline": 1621.0,
+    "left": 567.0
+  },
+  "ct1": {
+    "text": "LE STYLE",
+    "font": "barlow800",
+    "ink": [
+      41,
+      1743,
+      201,
+      1779
+    ],
+    "size": 50.35,
+    "tracking": -0.0221,
+    "baseline": 1779.0,
+    "left": 39.0
+  },
+  "ct2": {
+    "text": "VOUS ATTEND.",
+    "font": "barlow800",
+    "ink": [
+      40,
+      1788,
+      306,
+      1825
+    ],
+    "size": 51.75,
+    "tracking": -0.0079,
+    "baseline": 1824.0,
+    "left": 39.0
+  },
+  "ct-cta1": {
+    "text": "Venir au salon",
+    "font": "sora400",
+    "ink": [
+      65,
+      1884,
+      150,
+      1894
+    ],
+    "size": 12.25,
+    "tracking": 0.0,
+    "baseline": 1893.0,
+    "left": 65.0
+  },
+  "ct-cta2": {
+    "text": "Appeler",
+    "font": "sora400",
+    "ink": [
+      261,
+      1883,
+      308,
+      1896
+    ],
+    "size": 11.74,
+    "tracking": 0.0,
+    "baseline": 1892.0,
+    "left": 261.0
+  },
+  "ct-phone": {
+    "text": "07 53 49 64 35",
+    "font": "sora400",
+    "ink": [
+      42,
+      1927,
+      204,
+      1945
+    ],
+    "size": 23.38,
+    "tracking": -0.02,
+    "baseline": 1945.0,
+    "left": 40.0
+  },
+  "ct-walk": {
+    "text": "Sans rendez-vous",
+    "font": "sora400",
+    "ink": [
+      42,
+      1955,
+      140,
+      1965
+    ],
+    "size": 10.98,
+    "tracking": 0.0,
+    "baseline": 1963.0,
+    "left": 41.0
+  },
+  "ft-addr": {
+    "text": "2 rue Maurice Sambron, 44160 Pontchâteau",
+    "font": "sora400",
+    "ink": [
+      250,
+      2047,
+      474,
+      2059
+    ],
+    "size": 10.29,
+    "tracking": 0.0,
+    "baseline": 2055.0,
+    "left": 249.0
+  }
+}

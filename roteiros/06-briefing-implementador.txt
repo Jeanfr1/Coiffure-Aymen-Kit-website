@@ -1,0 +1,31 @@
+COIFFURE AYMEN — MODELO 3 COMPLETO — LE FAUTEUIL SIGNATURE
+
+O cliente escolheu o modelo 3. Hero E CORPO desse modelo, sem mistura.
+
+1. Hero: cadeira de couro/cromo em alfa, mural de campanha ao fundo,
+   assinatura Aymen em plano separado e PRENEZ PLACE.
+2. Montagem preto/branco: LA MAIN. Le détail.
+3. Fachada documental: AYMEN, À PONTCHÂTEAU. Endereço e itinerário.
+4. Única cena lisa, carvão: VOTRE ALLURE. NOTRE ATTENTION.
+5. Contato sobre campanha: LE STYLE VOUS ATTEND. Telefone e mapa.
+
+Paleta #101110 / #D5AC62 / #EFE7D8 / #694934. Logo PNG transparente e SVG nativo.
+Barlow Condensed, Sora e Yellowtail com os arquivos/licenças correspondentes.
+Tudo que o visitante lê deve estar em francês.
+
+SEM VÍDEO. Seguir motion/timeline.json e roteiros/02-animacao.md para camadas
+2,5D, assinatura e revelação em cinco faixas. Não prometer rotação 3D física
+da cadeira. Links devem funcionar sem esperar a introdução. Respeitar pausa,
+movimento reduzido, economia de dados e dispositivos de toque.
+
+Contato: 07 53 49 64 35; 2 rue Maurice Sambron, 44160 Pontchâteau.
+Sans rendez-vous. Não incluir Planity de reserva, agenda, preços, avaliações,
+horários ou redes inventadas.
+
+Somente a fachada é documentação real da empresa fornecida. Campanhas não são
+interior/equipe/clientes/resultados reais; não atribuir rostos ao proprietário.
+Usar o original da fachada, sem fingir sinalização nova instalada.
+
+Este ZIP contém site editável, assets e documentação. Browser QA está
+UNVERIFIED por indisponibilidade da prévia. Conferir layout, teclado, cliques
+e desempenho no ambiente real antes de afirmar que esses testes passaram.

@@ -1,0 +1,37 @@
+[
+  {
+    "path": "fonts/originals/BarlowCondensed-Bold.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-Bold.ttf",
+    "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65"
+  },
+  {
+    "path": "fonts/originals/BarlowCondensed-ExtraBold.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-ExtraBold.ttf",
+    "sha256": "724c9c25952d5f4a2d87185d9767aa006144c5f0d944dc05bf7d5d603551c260"
+  },
+  {
+    "path": "fonts/originals/BarlowCondensed-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/OFL.txt",
+    "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+  },
+  {
+    "path": "fonts/originals/Sora-Variable.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/sora/Sora%5Bwght%5D.ttf",
+    "sha256": "84ff7096ae3ec6c8be47d906d1a0ba4de7f2ce78c615275c77301964a316e16c"
+  },
+  {
+    "path": "fonts/originals/Sora-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/sora/OFL.txt",
+    "sha256": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299"
+  },
+  {
+    "path": "fonts/originals/Yellowtail-Regular.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/apache/yellowtail/Yellowtail-Regular.ttf",
+    "sha256": "3e06841b13000975f3cc38aa84e326e601a4378a4c52d50b5e9fee3598c5d236"
+  },
+  {
+    "path": "fonts/originals/Yellowtail-Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/apache/yellowtail/LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  }
+]

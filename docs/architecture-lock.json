@@ -1,0 +1,56 @@
+{
+  "project": "Coiffure Aymen",
+  "model": 3,
+  "name": "Le Fauteuil Signature",
+  "selection_date": "2026-10-29",
+  "selection": "modelo 3 — Hero e corpo completos",
+  "reference": {
+    "path": "references/Modelo-3-Aprovado.png",
+    "sha256": "87bf8a78279c8e01cd531639a1e9b8144e7932883314779b37b279e5453840ab"
+  },
+  "logo": {
+    "path": "brand/Logo-AYMEN-Ambre-Transparente.png",
+    "sha256": "98ca903e83a1b0d34b7e59c30c888b1113337cac0e6e8fcc20a53c5cc7c9d91c"
+  },
+  "scene_order": [
+    {
+      "id": "accueil",
+      "scene": "hero-fauteuil",
+      "background": "campaign"
+    },
+    {
+      "id": "savoir-faire",
+      "scene": "gestes",
+      "background": "campaign"
+    },
+    {
+      "id": "nous-trouver",
+      "scene": "facade",
+      "background": "documentary"
+    },
+    {
+      "id": "prestations",
+      "scene": "services-charbon",
+      "background": "solid"
+    },
+    {
+      "id": "contact",
+      "scene": "contact",
+      "background": "campaign"
+    }
+  ],
+  "single_solid_scene": "prestations",
+  "visitor_language": "fr",
+  "video": false,
+  "deployed": false,
+  "palette": {
+    "charbon": "#101110",
+    "ambre": "#D5AC62",
+    "ivoire": "#EFE7D8",
+    "tabac": "#694934"
+  },
+  "phone": "+33753496435",
+  "address": "2 rue Maurice Sambron, 44160 Pontchâteau",
+  "online_booking": false,
+  "documentary_photo": "images/originals/Fachada-Aymen-Original.png"
+}

@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "aymen-dev", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev"], "port": 4376 },
+    { "name": "aymen-preview", "runtimeExecutable": "npm", "runtimeArgs": ["run", "preview"], "port": 4377 }
+  ]
+}

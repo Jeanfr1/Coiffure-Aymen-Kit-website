@@ -1,0 +1,450 @@
+{
+  "date": "2026-10-29",
+  "model": 3,
+  "status": "STATIC_CHECKS_PASS_BROWSER_QA_UNVERIFIED",
+  "checks": [
+    {
+      "check": "modelo 3, cinco cenas e ordem exata",
+      "status": "PASS",
+      "order": [
+        {
+          "id": "accueil",
+          "scene": "hero-fauteuil",
+          "background": "campaign"
+        },
+        {
+          "id": "savoir-faire",
+          "scene": "gestes",
+          "background": "campaign"
+        },
+        {
+          "id": "nous-trouver",
+          "scene": "facade",
+          "background": "documentary"
+        },
+        {
+          "id": "prestations",
+          "scene": "services-charbon",
+          "background": "solid"
+        },
+        {
+          "id": "contact",
+          "scene": "contact",
+          "background": "campaign"
+        }
+      ]
+    },
+    {
+      "check": "um único fundo principal liso",
+      "status": "PASS"
+    },
+    {
+      "check": "francês e um H1",
+      "status": "PASS"
+    },
+    {
+      "check": "IDs únicos",
+      "status": "PASS"
+    },
+    {
+      "check": "âncoras internas",
+      "status": "PASS"
+    },
+    {
+      "check": "alvos ARIA existentes",
+      "status": "PASS"
+    },
+    {
+      "check": "referências locais do site",
+      "status": "PASS"
+    },
+    {
+      "check": "cinco faixas SVG",
+      "status": "PASS"
+    },
+    {
+      "check": "links externos protegidos",
+      "status": "PASS"
+    },
+    {
+      "check": "itinerários corretos",
+      "status": "PASS",
+      "count": 7
+    },
+    {
+      "check": "telefone da fachada em todos os links",
+      "status": "PASS",
+      "count": 7
+    },
+    {
+      "check": "sem reserva online inventada",
+      "status": "PASS"
+    },
+    {
+      "check": "dados estruturados coerentes",
+      "status": "PASS"
+    },
+    {
+      "check": "prancha aprovada íntegra",
+      "status": "PASS"
+    },
+    {
+      "check": "logo PNG aprovada preservada",
+      "status": "PASS"
+    },
+    {
+      "check": "links locais do guia",
+      "status": "PASS"
+    },
+    {
+      "check": "assets e fontes CSS locais",
+      "status": "PASS"
+    },
+    {
+      "check": "delimitadores CSS consistentes",
+      "status": "PASS"
+    },
+    {
+      "check": "movimento reduzido e pausa previstos",
+      "status": "PASS"
+    },
+    {
+      "check": "sintaxe app.js",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "check": "IDs do JS app.js",
+      "status": "PASS"
+    },
+    {
+      "check": "sintaxe content.js",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "check": "IDs do JS content.js",
+      "status": "PASS"
+    },
+    {
+      "check": "categorias e abas alinhadas",
+      "status": "PASS"
+    },
+    {
+      "check": "contato editável coerente",
+      "status": "PASS"
+    },
+    {
+      "check": "logo 1774×887 RGBA",
+      "status": "PASS"
+    },
+    {
+      "check": "transparência real da logo",
+      "status": "PASS",
+      "transparent_percent": 85.606
+    },
+    {
+      "check": "cantos da logo transparentes",
+      "status": "PASS"
+    },
+    {
+      "check": "preenchimento âmbar uniforme",
+      "status": "PASS"
+    },
+    {
+      "check": "cadeira RGBA com alfa real",
+      "status": "PASS"
+    },
+    {
+      "check": "WebP da cadeira preserva dimensão e alfa",
+      "status": "PASS"
+    },
+    {
+      "check": "vetor nativo Monogramme-Ivoire.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "vetor nativo Avatar-Social.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "vetor nativo Signature-Aymen.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "vetor nativo Logo-AYMEN-Ambre.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "vetor nativo Monogramme-Contour.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "vetor nativo Logo-AYMEN-Ivoire.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "vetor nativo Monogramme-Ambre.svg",
+      "status": "PASS"
+    },
+    {
+      "check": "cabeçalho preserva paths Ambre",
+      "status": "PASS"
+    },
+    {
+      "check": "cabeçalho preserva paths Ivoire",
+      "status": "PASS"
+    },
+    {
+      "check": "SVGs inline válidos",
+      "status": "PASS"
+    },
+    {
+      "check": "recorte documental dentro da fonte",
+      "status": "PASS"
+    },
+    {
+      "check": "quatro arquivos recebidos preservados",
+      "status": "PASS"
+    },
+    {
+      "check": "única fotografia documental identificada",
+      "status": "PASS"
+    },
+    {
+      "check": "hashes do inventário",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte válida BarlowCondensed-Bold.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte válida Sora-Medium.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte válida Sora-Regular.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte válida Sora-SemiBold.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte válida BarlowCondensed-ExtraBold.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "fonte válida Yellowtail-Regular.woff",
+      "status": "PASS"
+    },
+    {
+      "check": "licença BarlowCondensed-OFL.txt",
+      "status": "PASS"
+    },
+    {
+      "check": "licença Sora-OFL.txt",
+      "status": "PASS"
+    },
+    {
+      "check": "licença Apache de Yellowtail",
+      "status": "PASS"
+    },
+    {
+      "check": "origens oficiais e hashes das fontes",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 320px PRENEZ",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 320px NOTRE ATTENTION.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 320px À PONTCHÂTEAU.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 360px PRENEZ",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 360px NOTRE ATTENTION.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 360px À PONTCHÂTEAU.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 375px PRENEZ",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 375px NOTRE ATTENTION.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 375px À PONTCHÂTEAU.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 390px PRENEZ",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 390px NOTRE ATTENTION.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 390px À PONTCHÂTEAU.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 430px PRENEZ",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 430px NOTRE ATTENTION.",
+      "status": "PASS"
+    },
+    {
+      "check": "métrica estática 430px À PONTCHÂTEAU.",
+      "status": "PASS"
+    },
+    {
+      "check": "imagens legíveis",
+      "status": "PASS",
+      "count": 20
+    },
+    {
+      "check": "sem vídeo ou frames animados",
+      "status": "PASS"
+    },
+    {
+      "check": "sem pranchas de outros modelos",
+      "status": "PASS"
+    },
+    {
+      "check": "README e seis roteiros",
+      "status": "PASS"
+    },
+    {
+      "check": "timeline e paleta do modelo 3",
+      "status": "PASS"
+    },
+    {
+      "check": "runtime sem CDN ou APIs",
+      "status": "PASS"
+    },
+    {
+      "check": "configuração local sem publicação",
+      "status": "PASS"
+    }
+  ],
+  "passed": 77,
+  "images": 20,
+  "font_metric_support": [
+    {
+      "viewport": 320,
+      "text": "PRENEZ",
+      "estimated_width": 146.7,
+      "available": 280
+    },
+    {
+      "viewport": 320,
+      "text": "NOTRE ATTENTION.",
+      "estimated_width": 236.7,
+      "available": 280
+    },
+    {
+      "viewport": 320,
+      "text": "À PONTCHÂTEAU.",
+      "estimated_width": 236.3,
+      "available": 280
+    },
+    {
+      "viewport": 360,
+      "text": "PRENEZ",
+      "estimated_width": 165.8,
+      "available": 320
+    },
+    {
+      "viewport": 360,
+      "text": "NOTRE ATTENTION.",
+      "estimated_width": 270.7,
+      "available": 320
+    },
+    {
+      "viewport": 360,
+      "text": "À PONTCHÂTEAU.",
+      "estimated_width": 266.6,
+      "available": 320
+    },
+    {
+      "viewport": 375,
+      "text": "PRENEZ",
+      "estimated_width": 173.9,
+      "available": 327
+    },
+    {
+      "viewport": 375,
+      "text": "NOTRE ATTENTION.",
+      "estimated_width": 291.0,
+      "available": 327
+    },
+    {
+      "viewport": 375,
+      "text": "À PONTCHÂTEAU.",
+      "estimated_width": 321.1,
+      "available": 327
+    },
+    {
+      "viewport": 390,
+      "text": "PRENEZ",
+      "estimated_width": 173.9,
+      "available": 342
+    },
+    {
+      "viewport": 390,
+      "text": "NOTRE ATTENTION.",
+      "estimated_width": 291.0,
+      "available": 342
+    },
+    {
+      "viewport": 390,
+      "text": "À PONTCHÂTEAU.",
+      "estimated_width": 321.1,
+      "available": 342
+    },
+    {
+      "viewport": 430,
+      "text": "PRENEZ",
+      "estimated_width": 173.9,
+      "available": 382
+    },
+    {
+      "viewport": 430,
+      "text": "NOTRE ATTENTION.",
+      "estimated_width": 318.0,
+      "available": 382
+    },
+    {
+      "viewport": 430,
+      "text": "À PONTCHÂTEAU.",
+      "estimated_width": 321.1,
+      "available": 382
+    }
+  ],
+  "browser_qa": "UNVERIFIED — prévia indisponível; layout, cliques, teclado e desempenho não executados em navegador",
+  "preview_error": "sites-previewd mailbox is unavailable at /tmp/sites-previewd/requests",
+  "video": false,
+  "deployed": false,
+  "limits": [
+    "Campanhas não são documentação do interior, da equipe ou de resultados reais.",
+    "Métricas de fonte são apoio estático, não prova de renderização final."
+  ]
+}
